@@ -1,0 +1,24 @@
+{
+  "name": "simple-hathor-wallet",
+  "version": "1.0.0",
+  "description": "Simple hathor wallet that saves the words and keep them encrypted, only a password is required",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgomensoro/simple-hathor-wallet.git"
+  },
+  "keywords": [
+    "hathor",
+    "wallet",
+    "crypto"
+  ],
+  "author": "Rodrigo Gomensoro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgomensoro/simple-hathor-wallet/issues"
+  },
+  "homepage": "https://github.com/rgomensoro/simple-hathor-wallet#readme"
+}
